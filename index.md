@@ -50,4 +50,5 @@ Next, we add the book on the calendar function. The API key and the event type I
 
 <img width="380" height="200" alt="Image" src="https://github.com/user-attachments/assets/0c25809e-efe2-4f38-bba9-73827687400a" align="left" style="margin-right:15px;"/>
 The three essential functions for this AI voice agent are completed. Click here to see the [AI voice agent in action](https://youtu.be/7ZWvIUkOAmI).
+In the video demo, I have placed the Google calendar beside the AI voice agent test page to demo its ability to check and book an appointment on the calendar.
 <br clear="left"/>
